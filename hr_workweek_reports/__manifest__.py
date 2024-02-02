@@ -10,6 +10,7 @@
         "hr_workweek",
     ],
     "data": [
+        "data/ir_cron.xml",
         "data/workweek_data.xml",
     ],
     "application": True,
