@@ -17,7 +17,7 @@ This repository is designed to manage and track employee workweeks in Odoo. It i
 
 ## Available addons
 
-| addon        | version           | summary  |
-| ------------- |:-------------:| :-----|
-| hr_workweek |15.0.1.0.1  | Manage employee workweeks and compensations. |
-| hr_workweek_reports |15.0.1.0.1  | Receive weekly emails with analytics. |
+| addon        |  version   | summary  |
+| ------------- |:----------:| :-----|
+| hr_workweek | 16.0.1.0.1 | Manage employee workweeks and compensations. |
+| hr_workweek_reports | 16.0.1.0.1 | Receive weekly emails with analytics. |
